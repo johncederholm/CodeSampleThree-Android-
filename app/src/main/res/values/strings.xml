@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SAGESample</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="buttonKey">buttonKey</string>
+    <string name="parse_server_url">https://api.d2iapp.com/parse</string>
+    <string name="parse_app_id">5rKbWJBkA4VZDcLaicH3YR4tjSsE6aUx4jelkHZv</string>
+</resources>
